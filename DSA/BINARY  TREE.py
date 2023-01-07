@@ -14,7 +14,7 @@ class Node(object):
 
     # for getting the left node
     def getLeft(self):
-        return self.left
+        return  self.left
 
     # for getting right node
     def getRight(self):
