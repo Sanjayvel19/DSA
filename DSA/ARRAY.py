@@ -1,4 +1,4 @@
-class Array(object):
+class  Array(object):
     ''' sizeOfArray: denotes the total size of the array to be initialized
        arrayType: denotes the data type of the array(as all the elements of the array have same data type)
        arrayItems: values at each position ofarray
