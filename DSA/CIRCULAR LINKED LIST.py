@@ -3,6 +3,7 @@ class Node:
     self.data = data;    
     self.next = None;    
      
+      
 class CreateList:    
   #Declaring head and tail pointer as null.    
   def __init__(self):    
